@@ -1,1 +1,7 @@
+# Site settings
+
+title: Optimum Path
+description: Optimum Path
+
+# Build settings
 theme: minima
